@@ -1,0 +1,9 @@
+﻿Toronto
+Vancouver
+Montreal
+Calgary
+Ottawa
+Halifax
+Victoria
+Winnipeg
+Regina

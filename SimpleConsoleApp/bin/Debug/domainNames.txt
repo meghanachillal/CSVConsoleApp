@@ -1,0 +1,4 @@
+﻿gmail
+yahoo
+outlook
+hotmail

@@ -1,2 +1,2 @@
 # CSVConsoleApp
-# ConsoleApplicationToGenerateCSVFiles An Console Application To Generate CSV Files by combining multiple text files of firstname,lastname,address etc.
+# An C# Console Application To Generate Combined CSV File by combining multiple .txt files of firstname,lastname,address etc.
